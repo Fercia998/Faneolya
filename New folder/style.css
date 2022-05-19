@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+}
+.Rouane{
+    background-image: url(faniacc.png);
+    height: 100vh;
+    background-size: cover;
+}
+.mine{
+    height: 80%;
+    width: 30%;
+    background-color: white;
+    position: absolute;
+    left: 450px;
+    bottom: 20px;
+    
+}
+.filou{
+    position: absolute;
+    bottom: 480px;
+    left: 10px;
+}
